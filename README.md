@@ -1,1 +1,1 @@
-# issues
+# GPTalk issues
